@@ -1,0 +1,19 @@
+.app-header {
+  background-color: #3d5a64;
+  color: #fff;
+  padding: 2rem 1rem;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  box-shadow: #000 0px -10px 20px -2px;
+  z-index: 1;
+}
+
+#root {
+  margin-top: 10rem;
+}
+
+.App {
+  margin: 0 auto;
+  width: 75%;
+}

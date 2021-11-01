@@ -1,0 +1,33 @@
+.user-card {
+  padding: 3rem;
+  margin: 2rem 0;
+  background-color: #fafafa;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: #111 0px 3px 7px -5px;
+  position: relative;
+  bottom: 0;
+  transition: 0.5s;
+}
+
+.user-card:hover {
+  bottom: 5px;
+  transition: 0.5s;
+  box-shadow: #111 0px px 7px 0px;
+  background-color: #e2e8ec;
+}
+
+.user-image {
+  border-radius: 100px;
+  box-shadow: #3a3232 0px 6px 10px -5px;
+}
+
+.user-details {
+  text-align: left;
+}
+
+.name {
+  border-bottom: 2px solid #235669;
+  padding-bottom: 0.5rem;
+  font-size: 1.75rem;
+}
